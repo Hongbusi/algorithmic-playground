@@ -1,6 +1,6 @@
 # interview
 
-面试题记录
+> 面试题记录
 
 ### 实现一个方法 `getBreadcumb`，能够根据下面的路由 map 生成面包屑导航
 
@@ -29,6 +29,7 @@ const routes = [
 ```
 
 示例：`getBreadcumb(/home/product/detail)`
+
 输出：'首页/产品/产品详情'
 
 [参考答案](./src/getBreadcumb.html)
