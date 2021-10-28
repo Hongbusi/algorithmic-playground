@@ -50,6 +50,6 @@ const routes = [
 
 示例：`getBreadcumb(/home/product/detail)`
 
-输出：'首页/产品/产品详情'
+输出：`'首页/产品/产品详情'`
 
 [参考答案](./src/getBreadcumb.html)
