@@ -2,7 +2,7 @@
 
 > 面试题记录
 
-### 用 `reduce` 方法，把 input 的结构改成 output。（如果不知道 reduct，就降级成用任意方法）
+#### 用 `reduce` 方法，把 input 的结构改成 output。（如果不知道 reduct，就降级成用任意方法）
 
 ```js
 const input = [
@@ -18,7 +18,9 @@ const output = {
 
 [参考答案](./src/reduct.html)
 
-### 实现一个方法 `getBreadcumb`，能够根据下面的路由 map 生成面包屑导航
+---
+
+#### 实现一个方法 `getBreadcumb`，能够根据下面的路由 map 生成面包屑导航
 
 ``` js
 const routes = [
