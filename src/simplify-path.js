@@ -1,4 +1,5 @@
 /**
+ * @source https://leetcode-cn.com/problems/simplify-path
  * @param {string} path
  * @return {string}
  */
